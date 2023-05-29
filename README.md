@@ -2,7 +2,7 @@
 ## Laboratório: GSP282
 ### Configuração da API DIALOGFLOW
 
-Para habilitar a API do Dialogflow em seu projeto do Google Cloud, siga estas etapas:
+#### Para habilitar a API do Dialogflow em seu projeto do Google Cloud, siga estas etapas:
 
 1- Acesse a página inicial do seu projeto no Google Cloud.
 
@@ -16,7 +16,7 @@ Para habilitar a API do Dialogflow em seu projeto do Google Cloud, siga estas et
 
 6- Clique no botão "Enable" (Habilitar) para ativar a API em seu projeto.
 
-Habilitando via CLI.
+#### Habilitando via CLI.
 
 1- Acesse o cloud shell do seu projeto no Google Cloud e autorize o acesso.
     
